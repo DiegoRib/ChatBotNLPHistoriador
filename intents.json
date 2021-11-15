@@ -1,0 +1,51 @@
+{"intents": [
+        {
+                "tag": "boas-vindas",
+                "patterns": ["Oi", "Como você está", "Tem alguém ai?", "Olá", "Bom dia", "Boa tarde","Boa noite", "Tudo bem?", "E aí", "Salve!"],
+                "responses": ["Olá! Sou o seu assistente historiador! O que você deseja?", "Oi, sou seu assistente historiador e estou aqui para te ajudar!O que deseja? ", "Olá! Como posso ajudar?"],
+                "context_set": ""
+        },
+        {
+                "tag": "ate-mais",
+                "patterns": ["tchau", "Até mais", "Até logo", "Vou embora", "Tenha um bom dia", "Tenha uma boa noite", "Até mais ver", "Vou nessa", "Fui", "Estou indo"],
+                "responses": ["Espero ter ajudado, abraços! ", "A gente se fala depois", "Tchau!"],
+                "context_set": ""
+        },
+        {
+                "tag": "segunda-guerra-mundial",
+                "patterns": ["Segunda guerra mundial","Me conte sobre a segunda guerra mundial", "O que aconteceu durante a segunda guerra", "Me fale sobre a segunda guerra", "Me de um resumo sobre a segunda guerra", "O que foi a segunda guerra"],
+                "responses": ["A Segunda Guerra Mundial foi um conflito militar global que durou de 1939 a 1945, envolvendo a maioria das nações do mundo organizadas em duas alianças militares opostas, os Aliados e o Eixo!", " A Segunda Guerra Mundial estendeu-se de 1939 até 1945, resultando na morte de 60 milhões a 70 milhões de pessoas, embora existam estatísticas que sugiram que a guerra provocou mais que 70 milhões de mortos.", "A segunda guerra mundial foi o conflito mais sangrento da nossa história. Milhões de pessoas perderam suas vidas no campo de batalha. Os responsaveis por esse conflito foram os alemães que tinham uma política expansionista e militarista do nazifascismo."],
+                "context_set": ""
+        },
+        {
+                "tag": "guerra-fria",
+                "patterns": ["Guerra Fria","Me conte sobre a guerra fria", "O que aconteceu durante a guerra fria", "Me fale sobre a guerra fria", "Me de um resumo sobre a guerra fria", "O que foi a guerra fria"],
+                "responses": ["A Guerra Fria foi um conflito político-ideológico que foi travado entre Estados Unidos e União Soviética, entre 1947 e 1991. O conflito travado entre esses dois países foi responsável por polarizar o mundo em dois grandes blocos, um alinhado ao capitalismo e outro alinhado ao comunismo.", "A Guerra Fria foi uma disputa pela superioridade mundial entre Estados Unidos e União Soviética após a Segunda Guerra Mundial. É chamada de Guerra Fria por ser uma intensa guerra econômica, diplomática e ideológica travada pela conquista de zonas de influência.", "Guerra Fria foi um período de tensão geopolítica entre a União Soviética e os Estados Unidos e seus respectivos aliados, o Bloco Oriental e o Bloco Ocidental, após a Segunda Guerra Mundial. O termo fria é usado porque não houve combates em larga escala diretamente entre as duas superpotências, mas cada uma delas apoiou grandes conflitos regionais conhecidos como guerras por procuração."],
+                "context_set": ""
+        },
+        {
+                "tag": "independencia-do-brasil",
+                "patterns": ["Independência do brasil","Me conte sobre a independência do brasil", "O que aconteceu durante a independência do brasil", "Me fale sobre a independência do brasil", "Me de um resumo sobre a independência do brasil", "O que foi a independência do brasil"],
+                "responses": ["A Independência do Brasil foi declarada em 7 de setembro de 1822, quando aconteceu o Grito do Ipiranga. O Brasil transformou-se em uma monarquia governada por d. Pedro I.", "A independência do Brasil foi o processo histórico de separação entre Brasil e Portugal que se deu em 7 de setembro de 1822. Por meio da independência, o Brasil deixou de ser uma colônia portuguesa e passou a ser uma nação independente.", "A independência do Brasil aconteceu em 1822, tendo como grande marco o grito da independência que foi realizado por Pedro de Alcântara às margens do Rio Ipiranga, no dia 7 de setembro de 1822. Com a independência do Brasil declarada, o país transformou-se em uma monarquia com a coroação de D. Pedro I."],
+                "context_set": ""
+        },
+        {
+                "tag": "abolicao-da-escravidao-brasil",
+                "patterns": ["Abolição da escravidão no Brasil","Me conte sobre a abolição da escravidão no brasil", "O que aconteceu durante a abolição da escravidão no brasil", "Me fale sobre a abolição da escravidão no brasil", "Me de um resumo sobre a abolição da escravidão no brasil", "O que foi a abolição da escravidão no brasil"],
+                "responses": ["A Abolição da Escravatura foi o acontecimento histórico mais importante do Brasil após a Proclamação da Independência, em 1822.", "A abolição da escravatura aconteceu no Brasil, em 13 de maio de 1888, por meio da Lei Áurea, sendo resultado da resistência dos escravos e da mobilização popular.", "A abolição da escravatura no Brasil foi resultado de um processo longo, lento e concluído por meio de muita mobilização popular. Diferentemente do que os defensores da monarquia afirmavam, a abolição da escravatura não aconteceu por uma decisão de bondade da princesa Isabel, mas foi resultado de uma intensa mobilização popular que pressionou a monarquia brasileira a abolir o trabalho escravo no Brasil."],
+                "context_set": ""
+        },
+        {
+                "tag": "corrida-espacial",
+                "patterns": ["Corrida espacial","Me conte sobre a corrida espacial", "O que aconteceu durante a corrida espacial", "Me fale sobre a corrida espacial", "Me de um resumo sobre a corrida espacial", "O que foi a corrida espacial"],
+                "responses": ["A corrida espacial foi um dos capítulos da Guerra Fria, em que Estados Unidos e União Soviética disputaram a hegemonia na exploração do espaço entre 1957 e 1975. A corrida espacial ficou caracterizada pela intensa exploração no espaço realizada por americanos e soviéticos. Um dos momentos de maior relevância da corrida espacial foi a chegada do homem à Lua.", "A corrida espacial foi responsável por mobilizar altas quantias de dinheiro com o intuito de promover a exploração do espaço. Nela, soviéticos e americanos incentivaram o desenvolvimento científico, realizaram expedições tripuladas ao espaço, e, como ápice dessa disputa, foi organizada pelos americanos uma expedição que levou o homem à Lua."],
+                "context_set": ""
+        },
+        {
+                "tag": "inconfidencia-mineira",
+                "patterns": ["Inconfidência mineira","Me conte sobre a inconfidência mineira", "O que aconteceu durante a inconfidência mineira", "Me fale sobre a inconfidência mineira", "Me de um resumo sobre a inconfidência mineira", "O que foi a inconfidência mineira"],
+                "responses": ["A Inconfidência Mineira foi um movimento que ocorreu entre os anos de 1788 e 1789 e teve grandes influências de ideias Iluministas.", "Inconfidência Mineira, também referida como Conjuração Mineira, foi uma conspiração de natureza separatista que ocorreu na então capitania de Minas Gerais, Estado do Brasil, entre outros motivos, contra a execução da derrama e o domínio português, sendo reprimida pela Coroa portuguesa em 1789.", "A Inconfidência Mineira ou Conjuração Mineira foi um movimento de caráter separatista que ocorreu na então capitania de Minas Gerais em 1789."],
+                "context_set": ""
+        }
+   ]
+}
